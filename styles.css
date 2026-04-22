@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  max-width: 680px;
+  margin: 80px auto;
+  padding: 0 24px;
+  color: #1a1a1a;
+  line-height: 1.7;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 4px;
+  color: #0F6E56;
+}
+
+.tagline {
+  font-size: 1rem;
+  color: #1D9E75;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 32px;
+}
+
+.badge {
+  display: inline-block;
+  background: #E1F5EE;
+  color: #085041;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin-top: 40px;
+}
+
+a {
+  color: #0F6E56;
+}
