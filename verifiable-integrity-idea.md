@@ -1,4 +1,4 @@
-# Maulin's Idea for Tech Bridge
+# An Anonymous Developer's Idea for Tech Bridge
 
 ## Concept
 Technical implementation of verifiable integrity within the Tech Bridge framework.

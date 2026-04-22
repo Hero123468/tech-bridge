@@ -97,4 +97,4 @@ Find me on dev.to @Hero123468 and Reddit @Silly_Upstairs_1782
 
 ## Community Ideas
 
-*   [Maulin's Idea for Tech Bridge: Verifiable Integrity Framework](maulins-idea.md)
+*   [Anonymous Developer's Idea for Tech Bridge: Verifiable Integrity Framework](verifiable-integrity-idea.md)
