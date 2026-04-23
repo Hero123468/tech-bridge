@@ -93,6 +93,11 @@ Tech Bridge is built on the belief that credit is non-negotiable. If you contrib
 Built by Jesse F. — bootcamp grad, Springfield MO.
 Find me on dev.to @Hero123468 and Reddit @Silly_Upstairs_1782 
 
+---
+
+## Community Ideas
+
+*   [Anonymous Developer's Idea for Tech Bridge: Verifiable Integrity Framework](verifiable-integrity-idea.md)
 ## 🛠 Operational Protocols
 This project follows the "Pilot Flight" framework. All contributors (including AI) must adhere to:
 - **O.N.A. (One Next Action):** Focus strictly on the current task. Do not suggest scope creep.
