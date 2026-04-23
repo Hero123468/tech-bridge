@@ -92,3 +92,9 @@ Tech Bridge is built on the belief that credit is non-negotiable. If you contrib
 
 Built by Jesse F. — bootcamp grad, Springfield MO.
 Find me on dev.to @Hero123468 and Reddit @Silly_Upstairs_1782 
+
+## 🛠 Operational Protocols
+This project follows the "Pilot Flight" framework. All contributors (including AI) must adhere to:
+- **O.N.A. (One Next Action):** Focus strictly on the current task. Do not suggest scope creep.
+- **Park It!:** 10 minutes before session end, document the "Current Coordinates" (state of code) and the very next line to be written.
+- **Shutdown Protocol:** At the end of the timer, all processes must stop to prevent "manic looping."
